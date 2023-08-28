@@ -7,7 +7,7 @@
 - <b>Model</b>: Thinkpad X270 (20HN，使用20HM安装Monterey的时候，能显示出Wi-Fi，但连接Wi-Fi就会重新开机)
 - <b>CPU</b>: Intel Core i5-7200U 2 x 2.5 - 3.1 GHz, Kaby Lake
 - <b>GPU</b>: Intel HD Graphics 620
-- <b>RAM</b>: 8 GB 2400MHz DDR4
+- <b>RAM</b>: 8 GB 2133MHz DDR4
 - <b>Screen</b>: 12,5" (1920x1080)
 - <b>Wi-Fi</b>: Intel Dual Band Wireless-AC 8265
 - <b>Camera</b>: 720p
