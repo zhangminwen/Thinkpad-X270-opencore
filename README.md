@@ -30,25 +30,6 @@
 - `UEFI/Legacy Boot` **UEFI Only**
 - `CSM Support` **No**
 
-
-# 下面这些功能都能正常工作
-- [x] Intel HD 620 Graphics (incuding graphics acceleration)
-- [x] CPU Power Management
-- [x] Battery
-- [x] All USB ports
-- [x] HDMI port (including HDMI Audio)
-- [x] Intel Ethernet port
-- [x] Audio
-- [x] Trackpad (gestures work but not the trackpad click. tap to click works.)
-- [x] Shutdown / Reboot 
-- [x] Keyboard (incuding all fn Keys)
-- [x] Wi-Fi
-- [x] iMessage, FaceTime, App Store, iTunes Store (with valid smbios)
-- [x] DRM support (iTunes Movies, Apple TV+, Amazon Prime and Netflix, and others)
-- [x] Sleep / Wake (lid sleep and lid wake) (works for me you can try for yourself)
-- [x] Internal camera (including Facetime)
-- [x] Bluetooth (I will try to fix that)
-
 # 下面这些功能不能正常工作
-- [x] airdrop
+- [x] airdrop，但是蓝牙工作正常，能连接蓝牙音响和airpods
 - [x] macOS 12.6.8之前的Monterey系统休眠再进入系统后，Bluetoothd对应的进程cpu占用率达到100%，EFI中也添加了BlueFixup，升级到macOS 12.6.8就没有这个问题了
